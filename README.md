@@ -1,1 +1,1 @@
- Created first code of Java
+ Created first code of Java! <3
