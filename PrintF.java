@@ -1,4 +1,5 @@
-public class PrintF {
+ 
+ public class PrintF {
     public static void main(String[] args) {
         String highSchool = "Calexico High School";
         double gpa = 2.8;
